@@ -1,0 +1,24 @@
+body {		
+    margin: 0em;		
+    padding: 0em;		
+}		
+
+ /*! main page semi-cricle css */		
+.mainCircle{		
+    margin-left: 35vw;		
+    width: 69vw;; 		
+    height:52vw; 		
+    border-radius: 0 0 0 900px;		
+    background: rgb(85,52,159);		
+    background: linear-gradient(160deg, rgba(85,52,159,1) 21%, rgba(116,60,144,1) 68%, rgba(163,72,122,1) 100%);		
+}		
+
+ .main-art{		
+    padding-left: 18vw;		
+    padding-top: 5vw;		
+}		
+
+ .main-art img{		
+    min-height: 30vw;		
+    max-height: 30vw;		
+} 
